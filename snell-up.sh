@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 定义变量
-SNELL_URL="https://dl.nssurge.com/snell/snell-server-v5.0.0b2-linux-amd64.zip"
+SNELL_URL="https://dl.nssurge.com/snell/snell-server-v5.0.0b3-linux-amd64.zip"
 SNELL_DIR="/usr/local/bin"
 SNELL_BIN="${SNELL_DIR}/snell-server"
 SNELL_ZIP="snell-server.zip"
